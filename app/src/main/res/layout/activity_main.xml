@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="闭门造车，无聊做了下这个，希望对大家有用"
+        android:layout_marginBottom="20dp"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_01"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="ListView侧滑栏拼音全部显示"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_02"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="ListView侧滑栏拼音全部显示，有动态效果"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_03"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="RecyclerView侧滑栏拼音全部显示，有动态效果，拼音字母顶部停留"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_032"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="ListView侧滑栏拼音全部显示，有动态效果，拼音字母顶部停留"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_04"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="ListView侧滑栏拼音部分显示，有拼音显示，没有不显示"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_05"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="RecyclerView侧滑栏拼音全部显示，有动态效果，拼音字母顶部停留，顶部拼音搜索"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_06"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:text="RecyclerView侧滑栏拼音全部显示，有动态效果，拼音字母顶部停留，顶部拼音搜索"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+</LinearLayout>

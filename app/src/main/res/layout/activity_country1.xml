@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null" />
+
+    <TextView
+        android:id="@+id/tv_word"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@mipmap/yuan"
+        android:layout_marginRight="50dp"
+        android:gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:visibility="invisible" />
+
+    <com.lp.sidebar_master.widget.SideBar
+        android:id="@+id/sidebar"
+        android:layout_width="30dp"
+        android:layout_height="360dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>

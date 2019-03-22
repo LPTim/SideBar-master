@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_index"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#DDDDDD"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tv_index"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="#F5F5F5"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp"
+        android:text="A"
+        android:textColor="#777777"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+    <View
+        android:id="@+id/view"
+        android:background="#e0e0e0"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"/>
+j
+</LinearLayout>
