@@ -8,7 +8,7 @@
 ![](https://github.com/LPTim/SideBar-master/blob/master/snapshot/snapshot.gif)
 
 ### 背景
-在实际开发中避免不了字母排序，过滤搜索等问题
+在实际开发中避免不了字母排序，过滤搜索等问题，闲暇时对此做了个demo，希望对大家有所帮助，本demo分别用ListView，RecyclerView各实现了一版本，所以大家可以因情况随便使用
 ### 功能点简单说明
 - 汉字转拼音，按拼音排序
 - 字母显示一次
